@@ -17,4 +17,4 @@ if user type 15, array will change like this:
 > 0x41 0x42 *0x03* 0x44
 
 0x43 = 0100 0011
-0x03 = 0**0**00 0011
+<br>0x03 = 0**0**00 0011
