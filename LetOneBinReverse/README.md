@@ -2,7 +2,7 @@
 
 ## Require
 
-There was an char array restore binary numbers.
+There was a char array restore binary numbers.
 You will got a user input number.
 And you need to reverse the the number of bit in the array.
 
